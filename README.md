@@ -1,0 +1,2 @@
+# Wezterm
+My Wezterm configuration
